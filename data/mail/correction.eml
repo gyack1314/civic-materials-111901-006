@@ -1,0 +1,25 @@
+From: reports@c01.invalid
+To: research@local.invalid
+Subject: ESG =?utf-8?b?5bm05bqm5p2Q5paZ?=
+Message-ID: <change@local.invalid>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4689643195005426999=="
+
+--===============4689643195005426999==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+replacement-of=v1
+target-part=energy
+能源表撤回，待补交。水表维持。
+
+--===============4689643195005426999==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename*=utf-8''%E5%B9%B4%E5%BA%A6%E6%8A%AB%E9%9C%B2-water.txt
+MIME-Version: 1.0
+
+ZW50ZXJwcmlzZT1DMDEKcGVyaW9kPTIwMjUKcGFydD13YXRlcgplZGl0aW9uPXYxCg==
+
+--===============4689643195005426999==--

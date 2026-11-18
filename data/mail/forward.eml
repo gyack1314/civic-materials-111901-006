@@ -1,0 +1,53 @@
+From: forwarder@unknown.invalid
+To: research@local.invalid
+Subject: =?utf-8?b?6L2s5Y+R?=
+Message-ID: <same@local.invalid>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8302476704783667096=="
+
+--===============8302476704783667096==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+转发资料，不代表签发者
+
+--===============8302476704783667096==
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+Content-Disposition: attachment
+
+From: reports@c02.invalid
+To: research@local.invalid
+Subject: ESG =?utf-8?b?5bm05bqm5p2Q5paZ?=
+Message-ID: <same@local.invalid>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7995465814355669560=="
+
+--===============7995465814355669560==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+其他企业同名材料
+
+--===============7995465814355669560==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename*=utf-8''%E5%B9%B4%E5%BA%A6%E6%8A%AB%E9%9C%B2-energy.txt
+MIME-Version: 1.0
+
+ZW50ZXJwcmlzZT1DMDEKcGVyaW9kPTIwMjUKcGFydD1lbmVyZ3kKZWRpdGlvbj12Mgo=
+
+--===============7995465814355669560==--
+
+--===============8302476704783667096==
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+Content-ID: <logo>
+MIME-Version: 1.0
+
+bm90LWEtcmVhbC1pbWFnZQ==
+
+--===============8302476704783667096==--

@@ -1,0 +1,23 @@
+From: reports@c01.invalid
+To: research@local.invalid
+Subject: ESG =?utf-8?b?5bm05bqm5p2Q5paZ?=
+Message-ID: <same@local.invalid>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3485933720704606608=="
+
+--===============3485933720704606608==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+年度披露正文与能源表
+
+--===============3485933720704606608==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename*=utf-8''%E5%B9%B4%E5%BA%A6%E6%8A%AB%E9%9C%B2-energy.txt
+MIME-Version: 1.0
+
+ZW50ZXJwcmlzZT1DMDEKcGVyaW9kPTIwMjUKcGFydD1lbmVyZ3kKZWRpdGlvbj12MQo=
+
+--===============3485933720704606608==--
